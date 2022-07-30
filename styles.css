@@ -1726,3 +1726,30 @@ span {
     }
 
 }
+
+@media (max-width: 440px) {
+    .feature-title{
+        font-size: 22px;
+    }
+
+    .pricing-options{
+        margin-right: 0;
+        width: 350px;
+    }
+
+    .enroll-btn-container{
+        display: flex;
+        flex-direction: row;
+        width: 60%;
+    }
+
+    .enroll-btn{
+        margin: 12px 0 0 0;
+        padding: 18px 0;
+        font-size: 12px;
+    }
+
+    .enroll-one{
+        margin-right: 8px;
+    }
+}

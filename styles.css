@@ -1756,4 +1756,8 @@ span {
     .enroll-one{
         margin-right: 8px;
     }
+
+    .footer-column{
+        margin-right: 40px;
+    }
 }
